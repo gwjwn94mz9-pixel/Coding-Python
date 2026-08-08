@@ -53,3 +53,10 @@ print(type(str_float), str_float)
 str_num = int("ivanhu963")
 print(type(str_num), str_num)
 """
+
+
+# 8.8 Review练习_变量和类型
+money = 100
+print("初始钱包余额为： ", money, "元")
+print("购买了好多玩具，花费了：",60, "元")
+print("还剩下： ",money - 60, "元") 
